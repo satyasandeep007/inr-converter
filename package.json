@@ -1,6 +1,6 @@
 {
   "name": "inr-converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "inr-converter converts to indian rupees format when provide a string.",
   "repository": {
     "type": "git",

@@ -1,4 +1,4 @@
-# casing-converter
+# inr-converter
 
 > Transform strings and numbers to INR format.
 

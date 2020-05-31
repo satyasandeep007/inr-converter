@@ -8,8 +8,4 @@ const toRupees = (str) => {
 
 };
 
-console.log(toRupees("20000000"));
-
-
-
 module.exports = { toRupees };
