@@ -1,0 +1,19 @@
+{
+  "name": "inr-converter",
+  "version": "1.0.1",
+  "description": "inr-converter converts to indian rupees format when provide a string.",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "main": "index.js",
+  "keywords": [
+    "rupees",
+    "INR",
+    "converter",
+    "number-rupees"
+  ],
+  "author": "satyasandeep",
+  "license": "ISC"
+}
